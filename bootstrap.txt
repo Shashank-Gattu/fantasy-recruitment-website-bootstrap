@@ -1,0 +1,14 @@
+px and py are used for padding sides and padding top and bottom respectively.
+mt is margin top.
+mb is margin bottom.
+ms is margin start/left.
+me is margin end/right. (same for padding)
+
+while using a modal give it an id=""
+the id can be used to link the modal to a button.
+to link use data-bs-toggle="modal" data-bs-target="#(id name)"
+similar to using <a> tag . (used in project-6)
+set class="modal fade" for smoother transition.
+
+display-1 and display-5 are text display styles.
+h is for height. w is for width.

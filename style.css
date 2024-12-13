@@ -1,0 +1,18 @@
+.c-item{
+  height: 480px;
+}
+.c-img1{
+  height: 100%;
+  object-fit: cover;
+  object-position: top;
+  filter: brightness(0.6);
+}
+.c-img{
+  height: 100%;
+  object-fit: cover;
+  filter: brightness(0.6);
+}
+.overview{
+  height: 180px;
+  background-color: #d3dae1;
+}
